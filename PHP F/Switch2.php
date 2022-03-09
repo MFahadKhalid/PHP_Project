@@ -24,11 +24,6 @@
     default:
         echo "Your favorite Fruit is Apple, Orange, and Kiwi!";
     }
-    $x = 5;
-    $y = 6;
-    if("$x == $y"){
-        echo "x is equal to y";
-    }
     ?>
 </body>
 </html>
