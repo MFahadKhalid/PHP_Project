@@ -6,16 +6,37 @@
 <body>
     <h1>If , Else If and Else</h1>
     <?php
-    $t = date("16");
-    echo "<p>My name is fahad khalid and my age is " . $t; 
-    echo ", and you all:</p>";
-    $t = date("H");
-    if ($t < "16") {
-        echo "Have a good Day!";
-      } elseif ($t) {
-        echo "Have a good morning!";
-      } else {
-        echo "Have a good night!";
-      }
+
+    $name = 'Qasim';
+
+    if($name == 'Junaid'){
+        echo $name;
+    }
+    elseif($name == 'Abdul Wahab'){
+        echo $name;
+    }
+    elseif($name == 'Fahad'){
+        echo $name;
+    }
+    elseif($name == 'Zeeshan'){
+        echo $name;
+    }
+    elseif($name == 'Mustafa'){
+        echo $name;
+    }
+    elseif($name == 'Murtaza'){
+        echo $name;
+    }
+    elseif($name == 'Arham'){
+        echo $name;
+    }
+    elseif($name == 'Qasim'){
+        echo $name;
+    }
+    else{
+        echo 'not found';
+    }
+
+
     ?>
 </html>
