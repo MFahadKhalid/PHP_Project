@@ -10,7 +10,7 @@
 <body>
     <h1>Php Switch , If Elseif and Else</h1>
     <?php
-    $favFruit = "Apple";
+    $favFruit = "Kiwi";
     switch ($favFruit) {
     case "Apple":
         echo "Your favorite Fruit is Apple!";

@@ -29,8 +29,16 @@
         echo "<h1>For Each Loop</h1>";
         $age = array("Fahad"=>"16", "Abdul Wahab"=>"17", "Zeeshan"=>"11");
         foreach($age as $x => $val){
-            echo "$x = $val<br>";
+            echo $x ."=".$val."<br>";
         }
+
+
+        for ($x = 0; $x < 10; $x++) {
+            if ($x == 8) {
+              break;
+            }
+            echo "The number is: ".$x." <br>";
+          }
     ?>
     </div>
 </body>
