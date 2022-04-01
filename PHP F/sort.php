@@ -10,6 +10,10 @@
 <body class="container">
 <h1>Array Sort()</h1>
     <?php
+    echo $_SERVER['PHP_SELF'];
+    echo $_SERVER['SERVER_NAME'];
+echo "<br>";
+    echo '<br>';
     $book = array("Mathematics", "Chemistry", "Physics");
     sort($book);
     $books = count($book);
