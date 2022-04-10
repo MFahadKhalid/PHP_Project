@@ -45,10 +45,10 @@
         $(document).ready(function(){
             $("#link1").on({
                 mouseenter: function(){
-                $(this).css("color","darkcyan");                
+                $(this).css("color","darkcyan");
                 },
                 mouseleave: function(){
-                $(this).css("color","pink");                
+                $(this).css("color","pink");
                 },
             });
         });
