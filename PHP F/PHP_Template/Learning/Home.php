@@ -80,7 +80,7 @@
                 </div>
             </div>
                 <div class="col-md-6">
-                    <img style="margin-top: 50px;" src="assets/img/features-1.png" alt="features-1" width="600px">
+                    <img style="margin-top: 50px;" src="assets/img/features-1.png" alt="features-1" width="100%">
                 </div>
             </div>
         </div>

@@ -10,16 +10,16 @@
             <p class="text-center">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
             <div class="row">
                 <div class="col-md-3">
-                    <img src="assets/img/team-1.jpg" alt="team-1" width="250px" class="mx-auto d-block mt-4">
+                    <img src="assets/img/team-1.jpg" alt="team-1" width="100%" class="mx-auto d-block mt-4">
                 </div>
                 <div class="col-md-3">
-                    <img src="assets/img/team-2.jpg" alt="team-2" width="250px" class="mx-auto d-block mt-4">
+                    <img src="assets/img/team-2.jpg" alt="team-2" width="100%" class="mx-auto d-block mt-4">
                 </div>
                 <div class="col-md-3">
-                    <img src="assets/img/team-3.jpg" alt="team-3" width="250px" class="mx-auto d-block mt-4">
+                    <img src="assets/img/team-3.jpg" alt="team-3" width="100%" class="mx-auto d-block mt-4">
                 </div>
                 <div class="col-md-3">
-                    <img src="assets/img/team-4.jpg" alt="team-4" width="250px" class="mx-auto d-block mt-4">
+                    <img src="assets/img/team-4.jpg" alt="team-4" width="100%" class="mx-auto d-block mt-4">
                 </div>
             </div>
         </div>

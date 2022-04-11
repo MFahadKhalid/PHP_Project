@@ -9,7 +9,7 @@
         <div class="mt-5 container">
         <div class="row">
        <div class="col-md-6">
-        <img src="assets/img/about-img.jpg" alt="about-img" class="mt-5" width="500px">
+        <img src="assets/img/about-img.jpg" alt="about-img" class="mt-5" width="100%">
         </div> 
         <div class="mt-5 col-md-6">
                 <h1 class="text-success">Vanger dignissimos provident</h1>

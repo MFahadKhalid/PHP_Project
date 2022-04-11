@@ -21,31 +21,31 @@
             </div>
             <div class="row">
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-1.jpg" alt="portfolio-1" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-1.jpg" alt="portfolio-1" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-2.jpg" alt="portfolio-2" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-2.jpg" alt="portfolio-2" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-3.jpg" alt="portfolio-3" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-3.jpg" alt="portfolio-3" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-4.jpg" alt="portfolio-4" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-4.jpg" alt="portfolio-4" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-5.jpg" alt="portfolio-5" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-5.jpg" alt="portfolio-5" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-6.jpg" alt="portfolio-6" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-6.jpg" alt="portfolio-6" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-7.jpg" alt="portfolio-7" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-7.jpg" alt="portfolio-7" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-8.jpg" alt="portfolio-8" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-8.jpg" alt="portfolio-8" width="100%" class="mx-auto d-block">
                 </div>
                 <div class="mt-3 col-md-4">
-                    <img src="assets/img/portfolio-9.jpg" alt="portfolio-9" width="350px" class="mx-auto d-block">
+                    <img src="assets/img/portfolio-9.jpg" alt="portfolio-9" width="100%" class="mx-auto d-block">
                 </div>
             </div>
         </div>
