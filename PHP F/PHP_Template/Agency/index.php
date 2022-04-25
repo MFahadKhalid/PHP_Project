@@ -18,19 +18,19 @@
 </head>
 <body>
 <div class="Home">
-    <?php echo include "Home.php"; ?>
+    <?php  include ("Home.php"); ?>
 </div>
 <div class="Recuirments">
-    <?php echo include "Recuirments.php"; ?>
+    <?php  include ("Recuirments.php"); ?>
 </div>
 <div class="Building">
-    <?php echo include "Building.php"; ?>
+    <?php  include ("Building.php"); ?>
 </div>
 <div class="FAQ">
-    <?php echo include "FAQ.php"; ?>
+    <?php  include ("FAQ.php"); ?>
 </div>
 <div class="Contact">
-    <?php echo include "Contact.php"; ?>
+    <?php  include ("Contact.php"); ?>
 </div>
 <div class="container-fluid p-5 text-center bg-dark">
     <div class="container text-light">
@@ -45,10 +45,10 @@
         $(document).ready(function(){
             $("#link1").on({
                 mouseenter: function(){
-                $(this).css("color","darkcyan");
+                $(this).css("color","darkcyan");                
                 },
                 mouseleave: function(){
-                $(this).css("color","pink");
+                $(this).css("color","pink");                
                 },
             });
         });
